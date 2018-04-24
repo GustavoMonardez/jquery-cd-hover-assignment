@@ -1,0 +1,19 @@
+*{
+    margin:0px;
+    padding:0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.wrapper{
+    width:970px;
+    margin:auto;
+    background:linear-gradient(gray,silver);
+    text-align: center;
+}
+
+.coat{
+    display: inline-block;
+    width: 230px;
+    height:263px;
+    border:1px solid black;
+}
